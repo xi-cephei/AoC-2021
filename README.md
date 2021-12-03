@@ -1,5 +1,5 @@
 # AoC-2021
-Advent of code
+Advent of Code
 
-## To run:
-`node part[1]/[2].mjs`
+## To see the results:
+`$ node day-[x]/part-[x].mjs`
